@@ -1,5 +1,6 @@
-# NLU Project 2: Beyond seq2seq Dialog Systems
-This repository contains the submission for the student project in the "Natural Language Understanding" course at ETH Zürich in spring 2017. The goal of the project was to train a conversational agent using sequence-to-sequence recurrent neural networks and further improve performance by extending the baseline seq2seq model.
+# Natural Language Understanding 2017
+## Project 2: Beyond seq2seq Dialog Systems
+This repository contains the submission for the student project in the "Natural Language Understanding" course at ETH Zürich in spring 2017. The goal of the project was to train a conversational agent using sequence-to-sequence recurrent neural networks and further improve performance by extending the baseline seq2seq model. Improvements include: global attention and antilanguage model.
 
 ### Authors
 
@@ -8,8 +9,11 @@ This repository contains the submission for the student project in the "Natural 
 * [Jovan Nikolic](https://github.com/jovan-ioanis)
 * [Jovan Andonov](https://github.com/ac1dxtrem)
 
+### Project Description:
+Can be found [here](https://github.com/jovan-ioanis/nlu-project-2/blob/master/project_pt1%262.pdf).
+
 ### Project Report
-Can be found [here](https://github.com/skezle/ethz-nlu-seq2seq/blob/master/report/nlu-project-2.pdf)
+Can be found [here](https://github.com/jovan-ioanis/nlu-project-2/blob/master/report/nlu-project-2.pdf).
 
 ### Requirements
 
